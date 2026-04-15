@@ -1,0 +1,11 @@
+#include <stdio.h>
+void main()
+{
+	printf("%d",100-50)
+}
+
+
+
+实打实打算
+
+ace'
